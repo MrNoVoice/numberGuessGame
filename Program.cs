@@ -22,11 +22,11 @@ namespace numberGuessgame
             }
             else if (hardness.ToLower() == "difficult")
             {
-                randomNumber = random.Next(1, 51);
+                randomNumber = random.Next(1, 21);
             }
             else if (hardness.ToLower() == "hard")
             {
-                randomNumber = random.Next(1, 101);
+                randomNumber = random.Next(1, 41);
             }
             else
             {
