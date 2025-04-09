@@ -1,0 +1,14 @@
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.AssemblyInfoInputs.cache
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.AssemblyInfo.cs
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.csproj.CoreCompileInputs.cache
+C:\Users\VOICE\Desktop\numberGuessgame\bin\Debug\net9.0\numberGuessgame.exe
+C:\Users\VOICE\Desktop\numberGuessgame\bin\Debug\net9.0\numberGuessgame.deps.json
+C:\Users\VOICE\Desktop\numberGuessgame\bin\Debug\net9.0\numberGuessgame.runtimeconfig.json
+C:\Users\VOICE\Desktop\numberGuessgame\bin\Debug\net9.0\numberGuessgame.dll
+C:\Users\VOICE\Desktop\numberGuessgame\bin\Debug\net9.0\numberGuessgame.pdb
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.dll
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\refint\numberGuessgame.dll
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.pdb
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\numberGuessgame.genruntimeconfig.cache
+C:\Users\VOICE\Desktop\numberGuessgame\obj\Debug\net9.0\ref\numberGuessgame.dll
